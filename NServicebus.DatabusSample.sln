@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31727.386
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sender", "Sender\Sender.csproj", "{131D8793-2048-4224-AB31-0AD7336F0069}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Receiver", "Receiver\Receiver.csproj", "{15E0AB25-5F2A-49D2-B148-B0BE70F3377E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shared", "Shared\Shared.csproj", "{7077AE9E-D0EB-42F3-9663-DE9EBE1CB07C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131D8793-2048-4224-AB31-0AD7336F0069}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131D8793-2048-4224-AB31-0AD7336F0069}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131D8793-2048-4224-AB31-0AD7336F0069}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131D8793-2048-4224-AB31-0AD7336F0069}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15E0AB25-5F2A-49D2-B148-B0BE70F3377E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15E0AB25-5F2A-49D2-B148-B0BE70F3377E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15E0AB25-5F2A-49D2-B148-B0BE70F3377E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15E0AB25-5F2A-49D2-B148-B0BE70F3377E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7077AE9E-D0EB-42F3-9663-DE9EBE1CB07C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7077AE9E-D0EB-42F3-9663-DE9EBE1CB07C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7077AE9E-D0EB-42F3-9663-DE9EBE1CB07C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7077AE9E-D0EB-42F3-9663-DE9EBE1CB07C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88D18585-6361-4BA3-BF68-47A7935A2BBC}
+	EndGlobalSection
+EndGlobal
